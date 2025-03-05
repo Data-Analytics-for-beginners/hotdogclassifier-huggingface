@@ -1,6 +1,8 @@
 
 #  Hot Dog Classifier зі Streamlit
 
+https://hotdogclassifier-huggingface-demo.streamlit.app/
+
 ## Огляд проєкту
 
 Hot Dog Classifier - це веб-додаток, створений за допомогою Streamlit, який використовує модель машинного навчання для визначення, чи містить завантажене зображення хот-дог чи ні. Додаток демонструє функціональність моделі **julien-c/hotdog-not-hotdog**, розміщеної на платформі Hugging Face.
